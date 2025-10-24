@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pytubefix
+pydantic
+python-multipart
+moviepy==1.0.3
+imageio[ffmpeg]
